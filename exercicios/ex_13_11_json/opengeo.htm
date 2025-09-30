@@ -1,0 +1,37 @@
+
+<!-- saved from url=(0039)https://py4e-data.dr-chuck.net/opengeo? -->
+<html><input type="hidden" id="__yoroi_connector_api_injected_type" value="prod"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><h1>Python For Everybody Open StreetMap / GeoAPIProxy Server</h1>
+<p>
+This server is used in the Python for Everybody
+(<a href="https://www.py4e.com/">www.py4e.com</a>)
+series of courses.  It is <b>highly</b> cached using CloudFlare
+edge servers worldwide.  The student assignments retrieve a
+fixed list of addresses so nearly every request will be fulfilled by the cache.
+Each student adds <i>one</i> address to their list and that one will
+miss the CloudFlare cache once.
+</p>
+<p>
+If a request makes it past the CloudFlare cache, it will be delayed
+by 5 seconds in this proxy before being forwarded to the actual server
+in order not to trigger its rate limit.
+This server also has its own rate limiting to keep users
+from bypassing the CloudFlare cache and triggering the actual server's rate limit.
+</p>
+<!--
+<p>
+This service acts as a caching proxy for the API and is
+<a href="https://wiki.openstreetmap.org/wiki/Nominatim">Nominatim</a>
+server provided by the
+<a href="https://operations.osmfoundation.org/policies/nominatim/">
+Open Street Map Foundation
+</a>.
+-->
+Powered by <a href="https://www.geoapify.com/">Geoapify</a> at the free level.
+We make every effort to use this service in an efficient
+and respectful way.
+<p></p>
+<p>
+This server is maintained by
+<a href="http://www.twitter.com/drchuck" target="_blank">@DrChuck</a>.
+</p>
+</body></html>
