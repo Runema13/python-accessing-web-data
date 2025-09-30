@@ -18,11 +18,11 @@ Repositório com exercícios e anotações do curso [Python for Everybody – Ac
 
 - ✅ Módulo 1: Primeiros passos  
 - ✅ Módulo 2: Expressões regulares (Capítulo 11)  
-- ⬜ Módulo 3: Redes e soquetes (Capítulo 12)  
-- ⬜ Módulo 4: Programas que navegam na Web (Capítulo 12)  
-- ⬜ Módulo 5: Serviços da Web e XML (Capítulo 13)  
-- ⬜ Módulo 6: JSON e arquitetura REST (Capítulo 13)  
-- ⬜ Módulo 7: Projeto final  
+- ✅ Módulo 3: Redes e soquetes (Capítulo 12)  
+- ✅ Módulo 4: Programas que navegam na Web (Capítulo 12)  
+- ✅ Módulo 5: Serviços da Web e XML (Capítulo 13)  
+- ✅ Módulo 6: JSON e arquitetura REST (Capítulo 13)  
+- ✅ Módulo 7: Projeto final  
 
 Legenda:  
 ✅ = concluído  
