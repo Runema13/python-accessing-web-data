@@ -5,7 +5,7 @@ Repositório com exercícios e anotações do curso [Python for Everybody – Ac
 ---
 
 ## 📜 Certificado
-🔗 [Ver certificado no Coursera](COLE_AQUI_SEU_LINK_QUANDO_CONCLUIR)
+🔗 [Ver certificado no Coursera](https://www.coursera.org/account/accomplishments/verify/VTRVJ7GNHV85)
 
 ---
 
